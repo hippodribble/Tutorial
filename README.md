@@ -7,5 +7,5 @@ Navigation data in OGP P111 format can be used in mapping. The files, however, a
 Theoretical at this stage
 
 ## Future Developments
-It is also possible to create a _Point_ layer with each source location indexed individually. This can be used for assigning QC metrics to the source locations  directly. A GUI might allow QC values over specific index ranges to be set directly, but this might be better done as a separate plugin.
+It is also possible to create a _Point_ layer with each source location indexed individually. This can be used for bulk assignment of QC metrics to the source locations  directly. A GUI might allow QC values over specific index ranges to be set directly, but this might be better done as a separate plugin.
 
