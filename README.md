@@ -1,7 +1,7 @@
 # P111 Loader Plugin
 
 ## Use Case
-Navigation data in OGP P111 format can be used in mapping. The files, however, are generally very large, so only a subset needs to be plotted. Typically, these are the source locations. This plugin reads a P111 file and generated a _LineString_ that represents the line. 
+Navigation data in OGP P111 format can be used in mapping. The files, however, are generally very large, so only a subset needs to be plotted. Typically, these are the source locations. This plugin reads a P111 file and generates a _LineString_ that represents the line. 
 
 ## Status
 Theoretical at this stage
